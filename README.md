@@ -1,3 +1,6 @@
+# 💫 About Me:
+👋 Hey! I'm Manvendra  <br>I'm a beginner web developer exploring HTML, CSS, JavaScript and React.<br><br>🌱 Currently learning:  <br>React Router, API Integration, Git & GitHub<br><br>🛠️ I create:  <br>Simple, responsive web pages and beginner-friendly React projects.<br><br>💡 I love learning new things and improving my code every day.<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manv_endra2006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manvendrabhardwaj-tech) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manvendrabhardwaj230@gmail.com) 
