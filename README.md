@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Full Stack Developer | 🚀 React & Node Enthusiast | 📚 DSA Learner
+  💻 Full Stack Developer | 🚀 React.js • Node.js • Express.js | 📚 DSA Learner
 </h3>
 <p align="center">
 <a href="https://github.com/Manvendra-2006">
