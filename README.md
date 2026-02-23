@@ -80,39 +80,6 @@ style="width: 80px; height: 40px; border: 4px solid #e4405f; border-radius: 10px
 <hr>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manvendra-2006&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-## ️ LeetCode Badges
-<p align="">
-<a href="https://leetcode.com/" target="blank">
-<img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.png"/>
-</a>
-<a href="https://leetcode.com/" target="blank">
-<img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/DS_II.png"/>
-</a>
-<a href="https://leetcode.com/" target="blank">
-<img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.png"/>
-</a>
-<a href="https://leetcode.com/" target="blank">
-<img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/others/SQLI.png"/>
-</a>
-</p>
-
-## ✍️ Random Manvendra Bhardwaj Developer Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Manvendra-2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 😂 Random Developer Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
-## 💰 You can help me by Supporting
-[![PayPal](https://img.shields.io/badge/Support-00457C?style=for-the-badge&logo=paypal&logoColor=white)](#)
-
-[![](https://visitcount.itsvg.in/api?id=Manvendra-2006&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
 ## ✍️ Know More About me:
 <a href="https://www.linkedin.com/in/manvendrabhardwaj-tech">
 <img src="https://img.shields.io/badge/Know-more-0357F7?style=for-the-badge&logo=Knowmore">
