@@ -34,28 +34,27 @@ width="100%" height="50%">
 <!-- Welcome Section -->
 
 ## 🌟 Professional Background
-- 💻 **Programming Languages:** _☕ Java, 🐍 Python, 💻 C++, 🧠 JavaScript_
-- ️ **Frameworks & Libraries:** _⚛️ React.js, 🌿 Node.js, 🚀 Express.js_
+- 💻 **Programming Languages:** _☕ Java, 🐍 Python, 💻 C++, 🔵 C, 🧠 JavaScript_
+- ️ **Frameworks & Libraries:** _⚛️ React.js, 🌿 Node.js, 🚀 Express.js, 🎨 Tailwind CSS_
 - 🚀 **Version Control:** _📂 Git & GitHub_
 
 - ️ **Operating Systems:** _️ Windows, 🐧 Linux_
 - ☕ **Core Concepts:** _Data Structures & Algorithms, OOP, DBMS, OS_
-- 🐬 **Databases:** _🌌 MySQL_
-- 🌌 **IDEs & Tools:** _🌌 VS Code, 🔍 Eclipse, 📝 Sublime Text_
-- 🌐 **Web Technologies:** _HTML, 🎨 CSS, 💻 JavaScript, ⚛️ React_
-
+- 🐬 **Databases:** _🌌 MySQL, 🍃 MongoDB_
+- 🌌 **IDEs & Tools:** _🌌 VS Code, 🔍 Eclipse, 📓 Jupyter Notebook, 🧭 MongoDB Compass, 📝 Sublime Text_
+- 🌐 **Web Technologies:** _HTML, 🎨 CSS, 💻 JavaScript, ⚛️ React, 🎨 Tailwind CSS_
+- 
 ## 🎥 Learning & Building Journey
-I am a passionate developer focused on strengthening my problem-solving skills and building real-world projects.  
-Currently exploring full-stack development and consistently improving my understanding of backend systems, APIs, and modern frontend technologies.
+I am an aspiring Full Stack Developer actively building real-world applications to strengthen my practical development skills. 
+Currently, I am working on projects using React, Node.js, and Express while exploring how frontend and backend systems integrate to form scalable applications.
 
 ## ️ Technical Expertise
-With a solid foundation in computer science fundamentals, I actively practice Data Structures and Algorithms and build practical projects to enhance my development skills.  
-I enjoy working with React for frontend development and Node.js for backend services, aiming to become a proficient Full Stack Developer.
+I have a solid foundation in Data Structures and Algorithms, Object-Oriented Programming, DBMS, and Operating Systems.
+I develop responsive user interfaces using React and build backend APIs with Node.js and Express. I am comfortable working with both MySQL and MongoDB databases and managing projects using Git.
 
 ## 📚 Continuous Learning
-I strongly believe in continuous improvement. I regularly solve coding problems, explore new technologies, and work on personal projects to sharpen my technical expertise.  
-My goal is to grow as a software engineer by building scalable applications and contributing to meaningful projects.
-
+I maintain a disciplined approach to growth by practicing coding problems regularly and refining my development workflow. 
+I focus on improving code quality, understanding system design concepts, and staying updated with modern development tools and best practices.
 Feel free to explore my GitHub repositories for projects, experiments, and learning progress. Let's build and grow together! 🚀
 
 <br>
