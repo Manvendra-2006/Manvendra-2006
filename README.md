@@ -41,7 +41,7 @@ width="100%" height="50%">
 - ️ **Operating Systems:** _️ Windows, 🐧 Linux_
 - ☕ **Core Concepts:** _Data Structures & Algorithms, OOP, DBMS, OS_
 - 🐬 **Databases:** _🌌 MySQL, 🍃 MongoDB_
-- 🌌 **IDEs & Tools:** _🌌 VS Code, 🔍 Eclipse, 📓 Jupyter Notebook, 🧭 MongoDB Compass, 📝 Sublime Text_
+- 🌌 **IDEs & Tools:** _🌌 VS Code, 🔍 Eclipse, 📓 Jupyter Notebook, 🧭 MongoDB Compass, ☁️ MongoDB Atlas 
 - 🌐 **Web Technologies:** _HTML, 🎨 CSS, 💻 JavaScript, ⚛️ React, 🎨 Tailwind CSS_
   
 ## 🎥 Learning & Building Journey
