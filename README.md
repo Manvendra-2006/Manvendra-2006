@@ -67,19 +67,19 @@ style="width: 120px; height: 30px;">
 </p>
 
 # 🌐 Socials:
-<a href="https://x.com/ManvendraB67835" target="_blank" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" 
-  alt="X (Twitter)" 
-  style="width: 80px; height: 40px; border: 4px solid #000000; border-radius: 10px;">
-</a>
-<a href="https://www.linkedin.com/in/manvendrabhardwaj-tech" target="_blank" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 80px; height: 40px; border: 4px solid #0077b5; border-radius: 10px;">
-</a>
-<a href="https://www.instagram.com/manv_endra2006/" target="_blank" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" 
-  alt="Instagram" 
-  style="width: 80px; height: 40px; border: 4px solid #e4405f; border-radius: 10px;">
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/manvendrabhardwaj-tech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/manv_endra2006/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://x.com/ManvendraB67835" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge" alt="X">
+  </a>
+</p>
 <hr>
 </div>
 
