@@ -43,7 +43,7 @@ width="100%" height="50%">
 - 🐬 **Databases:** _🌌 MySQL, 🍃 MongoDB_
 - 🌌 **IDEs & Tools:** _🌌 VS Code, 🔍 Eclipse, 📓 Jupyter Notebook, 🧭 MongoDB Compass, 📝 Sublime Text_
 - 🌐 **Web Technologies:** _HTML, 🎨 CSS, 💻 JavaScript, ⚛️ React, 🎨 Tailwind CSS_
-- 
+  
 ## 🎥 Learning & Building Journey
 I am an aspiring Full Stack Developer actively building real-world applications to strengthen my practical development skills. 
 Currently, I am working on projects using React, Node.js, and Express while exploring how frontend and backend systems integrate to form scalable applications.
