@@ -34,15 +34,75 @@ width="100%" height="50%">
 <!-- Welcome Section -->
 
 ## 🌟 Professional Background
-- 💻 **Programming Languages:** _☕ Java, 🐍 Python, 💻 C++, 🔵 C, 🧠 JavaScript_
-- ️ **Frameworks & Libraries:** _⚛️ React.js, 🌿 Node.js, 🚀 Express.js, 🎨 Tailwind CSS_
-- 🚀 **Version Control:** _📂 Git & GitHub_
 
-- ️ **Operating Systems:** _️ Windows, 🐧 Linux_
-- ☕ **Core Concepts:** _Data Structures & Algorithms, OOP, DBMS, OS_
-- 🐬 **Databases:** _🌌 MySQL, 🍃 MongoDB_
-- 🌌 **IDEs & Tools:** _🌌 VS Code, 🔍 Eclipse, 📓 Jupyter Notebook, 🧭 MongoDB Compass, ☁️ MongoDB Atlas 
-- 🌐 **Web Technologies:** _HTML, 🎨 CSS, 💻 JavaScript, ⚛️ React, 🎨 Tailwind CSS_
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=💻+Languages+%7C+⚛️+Frameworks+%7C+🗄️+Databases;🚀+Version+Control+%7C+🌐+Web+Tech+%7C+🛠️+Tools;Building+cool+stuff+one+commit+at+a+time+✨" alt="Typing SVG" />
+</div>
+
+<br>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+</p>
+
+### ⚛️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
+</p>
+
+### 🚀 Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
+</p>
+
+### 🖥️ Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=windows" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
+</p>
+
+### 🧠 Core Concepts
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A66C2?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-FF6B35?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logoColor=black)
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
+</p>
+
+### 🛠️ IDEs & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB_Compass-00ED64?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🌐 Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
+</p>
+
+---
   
 ## 🎥 Learning & Building Journey
 I am an aspiring Full Stack Developer actively building real-world applications to strengthen my practical development skills. 
