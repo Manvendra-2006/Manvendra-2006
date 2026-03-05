@@ -35,72 +35,58 @@ width="100%" height="50%">
 
 ## 🌟 Professional Background
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=💻+Languages+%7C+⚛️+Frameworks+%7C+🗄️+Databases;🚀+Version+Control+%7C+🌐+Web+Tech+%7C+🛠️+Tools;Building+cool+stuff+one+commit+at+a+time+✨" alt="Typing SVG" />
-</div>
-
-<br>
-
 ### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-</p>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚛️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
-</p>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🚀 Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
-</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🖥️ Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=windows" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
-</p>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🧠 Core Concepts
+
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A66C2?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-FF6B35?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
-![OS](https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logoColor=black)
+![OS](https://img.shields.io/badge/Operating_Systems-6E4C9F?style=for-the-badge)
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
-</p>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🛠️ IDEs & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=eclipse" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB_Compass-00ED64?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌐 Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
-</p>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
   
