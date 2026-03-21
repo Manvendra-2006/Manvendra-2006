@@ -66,6 +66,9 @@ width="100%" height="50%">
 ![OOP](https://img.shields.io/badge/OOP-FF6B35?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
 ![OS](https://img.shields.io/badge/Operating_Systems-6E4C9F?style=for-the-badge)
+![DAA](https://img.shields.io/badge/Design_%26_Analysis_of_Algorithms-E91E63?style=for-the-badge)
+![CSA](https://img.shields.io/badge/Computer_System_Architecture-FF6F00?style=for-the-badge)
+
 
 ### 🗄️ Databases
 
@@ -124,6 +127,10 @@ style="width: 120px; height: 30px;">
   &nbsp;
   <a href="https://x.com/ManvendraB67835" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white&style=for-the-badge" alt="X">
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@RVDTECH" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" alt="YouTube">
   </a>
 </p>
 <hr>
