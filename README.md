@@ -134,8 +134,13 @@ style="width: 120px; height: 30px;">
   </a>
 </p>
 <hr>
+
+## 💻 Programming Platforms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Manvendra-2006/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/manvendrabi3gd)
 </div>
 
 ## ✍️ Know More About me:
-<a href="https://www.linkedin.com/in/manvendrabhardwaj-tech">
+<a href="https://codolio.com/profile/Manvendra-2006">
 <img src="https://img.shields.io/badge/Know-more-0357F7?style=for-the-badge&logo=Knowmore">
