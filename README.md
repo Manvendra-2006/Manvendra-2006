@@ -18,7 +18,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-codolio.com-00D9FF?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Manvendra-2006)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-codolio.com-00D9FF?style=for-the-badge&logoColor=white)](https://manvendra-portfolio-eta.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Manvendra--2006-181717?style=for-the-badge&logo=github)](https://github.com/Manvendra-2006)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manvendrabhardwaj-tech)
 
