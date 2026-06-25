@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <pre>
@@ -78,6 +77,8 @@ const manvendra = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -85,6 +86,7 @@ const manvendra = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white)
 
 ### 🧠 Core CS Concepts
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A66C2?style=for-the-badge)
@@ -159,6 +161,7 @@ const manvendra = {
   ✅  Full Stack MERN Applications
   ✅  REST API Development with Node + Express
   ✅  Responsive UI with React + Tailwind CSS
+  ✅  Real-time Features with WebSocket & Socket.IO
   🔄  Exploring: System Design & Scalability
   📌  Next: Authentication Systems & Cloud Deployment
 ```
