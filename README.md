@@ -13,7 +13,7 @@
 
 ### `< Full Stack Developer />` · `{ DSA Enthusiast }` · `[ Open Source Learner ]`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Express.js;DSA+%26+Problem+Solver+%F0%9F%A7%A0;Always+Building%2C+Always+Learning+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Express.js;Microservices+%26+Event-Driven+Systems+%E2%9A%99%EF%B8%8F;DSA+%26+Problem+Solver+%F0%9F%A7%A0;Always+Building%2C+Always+Learning+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br>
 
@@ -36,19 +36,21 @@ const manvendra = {
   location: "India 🇮🇳",
   currently: {
     building:  "Real-world MERN apps",
-    learning:  "System Design + DSA",
-    exploring: "Scalable Architectures"
+    learning:  "Microservices, RabbitMQ & System Design",
+    exploring: "Event-Driven & Real-Time Architectures"
   },
-  stack: ["React", "Node.js", "Express", "MongoDB", "MySQL"],
+  stack: ["React", "Node.js", "Express", "MongoDB", "MySQL", "RabbitMQ", "Socket.io", "Firebase"],
   languages: ["JavaScript", "Java", "Python", "C++", "C"],
   motto: "Ship. Learn. Repeat. 🚀"
 };
 ```
 
 - 🔭 Working on **MERN stack projects** to sharpen real-world skills
+- 🧩 Exploring **Microservices architecture** and **event-driven systems with RabbitMQ**
+- ⚡ Building **real-time features** using **Socket.io / WebSocket**
 - 📖 Deep-diving into **Data Structures & Algorithms** daily
 - 🎯 Goal: **Become a top-tier Full Stack Engineer**
-- ⚡ Fun fact: I debug faster with lo-fi music on 🎧
+- 🎧 Fun fact: I debug faster with lo-fi music on
 
 <br clear="right"/>
 
@@ -78,6 +80,14 @@ const manvendra = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧱 Architecture & Systems
+![Microservices](https://img.shields.io/badge/Microservices-1E90FF?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Message Queue](https://img.shields.io/badge/Message_Queues-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-6E4C9F?style=for-the-badge)
+![Real Time Systems](https://img.shields.io/badge/Real--Time_Systems-00BCD4?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -93,6 +103,7 @@ const manvendra = {
 ![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
 ![OS](https://img.shields.io/badge/Operating_Systems-6E4C9F?style=for-the-badge)
 ![CN](https://img.shields.io/badge/Computer_Networks-00BCD4?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge)
 
 </div>
 
@@ -161,6 +172,8 @@ const manvendra = {
   ✅  REST API Development with Node + Express
   ✅  Responsive UI with React + Tailwind CSS
   ✅  Real-time Features with WebSocket & Socket.IO
+  🔄  Exploring: Microservices Architecture
+  🔄  Exploring: RabbitMQ & Message Queues (Event-Driven Systems)
   🔄  Exploring: System Design & Scalability
   📌  Next: Authentication Systems & Cloud Deployment
 ```
