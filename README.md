@@ -39,7 +39,7 @@ const manvendra = {
     learning:  "Microservices, RabbitMQ & System Design",
     exploring: "Event-Driven & Real-Time Architectures"
   },
-  stack: ["React", "Node.js", "Express", "MongoDB", "MySQL", "RabbitMQ", "Socket.io", "Firebase"],
+stack: ["React", "Node.js", "Express", "MongoDB", "MySQL", "RabbitMQ", "Socket.io", "Firebase", "Docker"],
   languages: ["JavaScript", "Java", "Python", "C++", "C"],
   motto: "Ship. Learn. Repeat. 🚀"
 };
@@ -80,6 +80,7 @@ const manvendra = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
@@ -96,6 +97,7 @@ const manvendra = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🧠 Core CS Concepts
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A66C2?style=for-the-badge)
