@@ -403,16 +403,6 @@ mindmap
 
 </div>
 
----
-
-## 🏆 Achievements
-
-- 🥇 **Central India Hackathon 3.0** — participated as Team SanjeevanSetu
-- 🚀 **Bharatiya Antariksh Hackathon 2025** — idea submission
-- 🎓 **Google Skills Arcade** — Level 3 badge (Scalable Deployments & Delivery)
-- 🤝 **DevFest Raipur 2025** & **Build with AI Bootcamp, Bhilai** — Google Developer Groups
-
----
 
 ## 🎯 Currently Working On
 
