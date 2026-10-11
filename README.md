@@ -1,20 +1,20 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0A66C2,100:00D9FF&height=260&section=header&text=Manvendra%20Bhardwaj&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20Builder&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7C3AED,100:FF4FA3&height=260&section=header&text=Manvendra%20Bhardwaj&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20AI%20Builder&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+real-world+MERN+apps+%F0%9F%9A%80;Microservices+%7C+RabbitMQ+%7C+Socket.io+%E2%9A%99%EF%B8%8F;AI-powered+tools+with+Groq+%26+Gemini+%F0%9F%A4%96;Solving+DSA+problems+every+day+%F0%9F%A7%A0;Ship.+Learn.+Repeat.+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4FA3&center=true&vCenter=true&width=700&lines=Building+real-world+MERN+apps+%F0%9F%9A%80;Microservices+%7C+RabbitMQ+%7C+Socket.io+%E2%9A%99%EF%B8%8F;AI-powered+tools+with+Groq+%26+Gemini+%F0%9F%A4%96;Solving+DSA+problems+every+day+%F0%9F%A7%A0;Ship.+Learn.+Repeat.+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00D9FF?style=for-the-badge)](https://manvendra-portfolio-developer.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvendrabhardwaj-tech)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF4FA3?style=for-the-badge)](https://manvendra-portfolio-developer.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvendrabhardwaj-tech)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Manvendra-2006/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ManvendraB67835)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@RVDTECH)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manvendra-2006&label=Profile+Views&color=00D9FF&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/Manvendra-2006?label=Followers&style=flat-square&color=00D9FF)](https://github.com/Manvendra-2006)
+![Profile Views](https://komarev.com/ghpvc/?username=Manvendra-2006&label=Profile+Views&color=FF4FA3&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/Manvendra-2006?label=Followers&style=flat-square&color=FF4FA3)](https://github.com/Manvendra-2006)
 
 </div>
 
@@ -73,7 +73,7 @@ Upload a project ZIP → AI debugs it **autonomously**, using Groq AI and 6 MCP 
 ⚙️ 8 APIs · 6 MCP tools · Google OAuth
 
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Manvendra-2006/AI-Debugger-Assistant)
-[![Live](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=render&logoColor=black)](https://ai-debugger-assistant-1g7f.onrender.com/)
+[![Live](https://img.shields.io/badge/Live_Demo-FF4FA3?style=flat-square&logo=render&logoColor=black)](https://ai-debugger-assistant-1g7f.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -101,7 +101,13 @@ Real-time chat on a **microservice architecture** — 1 API gateway + 4 services
 
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Manvendra-2006/ChatApp)
 
+</td>
+<td width="50%" valign="top">
 
+### 📊 Customer 360 & Next Best Action Engine
+Insurance ops platform with **AI transcript insights** and rule-based recommendations.
+
+`Streamlit` `Snowflake` `Cortex` `Pandas`
 
 ⚙️ Customer & employee roles · Analytics · System health
 
@@ -145,7 +151,7 @@ Agricultural AI platform with **crop disease analysis** & district officer comma
 <summary><b>💬 ChatApp — Microservices + Event-Driven</b></summary>
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0A66C2','primaryTextColor':'#fff','lineColor':'#00D9FF','secondaryColor':'#0D1117','tertiaryColor':'#161B22','fontFamily':'Fira Code'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#7C3AED','primaryTextColor':'#fff','lineColor':'#FF4FA3','secondaryColor':'#0D1117','tertiaryColor':'#161B22','fontFamily':'Fira Code'}}}%%
 flowchart LR
     U(["👤 Client<br/>React + Tailwind"]):::client
     GW{{"🚪 API Gateway"}}:::gw
@@ -173,9 +179,9 @@ flowchart LR
     US -. "events" .-> MQ
     MQ -. "consume" .-> MS
 
-    classDef client fill:#00D9FF,stroke:#fff,color:#000,stroke-width:2px
+    classDef client fill:#FF4FA3,stroke:#fff,color:#000,stroke-width:2px
     classDef gw fill:#FF6B35,stroke:#fff,color:#fff,stroke-width:2px
-    classDef svc fill:#0A66C2,stroke:#00D9FF,color:#fff
+    classDef svc fill:#7C3AED,stroke:#FF4FA3,color:#fff
     classDef mq fill:#FF6600,stroke:#fff,color:#fff,stroke-width:2px
     classDef db fill:#47A248,stroke:#fff,color:#fff
     classDef ext fill:#6E4C9F,stroke:#fff,color:#fff
@@ -189,7 +195,7 @@ flowchart LR
 <summary><b>🐞 AI Debugger Assistant — Autonomous Debugging Agent</b></summary>
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#6E4C9F','primaryTextColor':'#fff','lineColor':'#00D9FF','fontFamily':'Fira Code'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#6E4C9F','primaryTextColor':'#fff','lineColor':'#FF4FA3','fontFamily':'Fira Code'}}}%%
 flowchart TD
     A(["📦 Upload Project ZIP"]):::in --> B["🔐 Auth Layer<br/>JWT + Blacklist · Firebase Google OAuth"]:::auth
     B --> C["🧠 Express API<br/>8 endpoints"]:::core
@@ -206,12 +212,12 @@ flowchart TD
     T1 & T2 & T3 & T4 & T5 & T6 --> R
     C -.-> N["📧 Nodemailer<br/>Welcome Email"]:::tool
 
-    classDef in fill:#00D9FF,stroke:#fff,color:#000
+    classDef in fill:#FF4FA3,stroke:#fff,color:#000
     classDef auth fill:#FF6B35,stroke:#fff,color:#fff
-    classDef core fill:#0A66C2,stroke:#00D9FF,color:#fff
+    classDef core fill:#7C3AED,stroke:#FF4FA3,color:#fff
     classDef choice fill:#FFCA28,stroke:#fff,color:#000
-    classDef ai fill:#6E4C9F,stroke:#00D9FF,color:#fff
-    classDef tool fill:#161B22,stroke:#00D9FF,color:#00D9FF
+    classDef ai fill:#6E4C9F,stroke:#FF4FA3,color:#fff
+    classDef tool fill:#161B22,stroke:#FF4FA3,color:#FF4FA3
     classDef out fill:#47A248,stroke:#fff,color:#fff
 ```
 
@@ -221,7 +227,7 @@ flowchart TD
 <summary><b>🏛️ CivicLoop — AI Civic Governance Platform</b></summary>
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0A66C2','lineColor':'#00D9FF','fontFamily':'Fira Code'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#7C3AED','lineColor':'#FF4FA3','fontFamily':'Fira Code'}}}%%
 flowchart LR
     C(["🧑‍🌾 Citizen"]):::user
     M(["🏛️ MP"]):::user
@@ -248,8 +254,8 @@ flowchart LR
     API --> A1 & A2 & A3
     API --- DB
 
-    classDef user fill:#00D9FF,stroke:#fff,color:#000
-    classDef fe fill:#20232A,stroke:#61DAFB,color:#61DAFB
+    classDef user fill:#FF4FA3,stroke:#fff,color:#000
+    classDef fe fill:#20232A,stroke:#C084FC,color:#C084FC
     classDef api fill:#339933,stroke:#fff,color:#fff
     classDef ai fill:#6E4C9F,stroke:#fff,color:#fff
     classDef db fill:#47A248,stroke:#fff,color:#fff
@@ -261,7 +267,7 @@ flowchart LR
 <summary><b>📊 Customer 360 & Next Best Action Engine</b></summary>
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#29B5E8','lineColor':'#00D9FF','fontFamily':'Fira Code'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#A78BFA','lineColor':'#FF4FA3','fontFamily':'Fira Code'}}}%%
 flowchart LR
     U(["👥 Customer / Employee"]):::user --> S["🎈 Streamlit UI"]:::ui
     S --> P["🐼 Pandas<br/>Data Layer"]:::proc
@@ -271,10 +277,10 @@ flowchart LR
     P --> R["📐 Rule-based Engine"]:::proc
     R --> NBA(["🎯 Next Best Action"]):::out
 
-    classDef user fill:#00D9FF,stroke:#fff,color:#000
+    classDef user fill:#FF4FA3,stroke:#fff,color:#000
     classDef ui fill:#FF4B4B,stroke:#fff,color:#fff
-    classDef proc fill:#150458,stroke:#00D9FF,color:#fff
-    classDef sf fill:#29B5E8,stroke:#fff,color:#000
+    classDef proc fill:#150458,stroke:#FF4FA3,color:#fff
+    classDef sf fill:#A78BFA,stroke:#fff,color:#000
     classDef ai fill:#6E4C9F,stroke:#fff,color:#fff
     classDef out fill:#47A248,stroke:#fff,color:#fff
 ```
@@ -284,7 +290,7 @@ flowchart LR
 ### 🌐 Deployment Pattern (mere projects mein)
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'lineColor':'#00D9FF','fontFamily':'Fira Code'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'lineColor':'#FF4FA3','fontFamily':'Fira Code'}}}%%
 flowchart LR
     DEV(["💻 Local Dev"]) -->|"git push"| GH["🐙 GitHub"]
     GH -->|"auto deploy"| V["▲ Vercel<br/>Frontend"]
@@ -378,14 +384,14 @@ mindmap
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manvendra-2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Manvendra-2006&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&icon_color=FF4FA3&text_color=ffffff&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra-2006&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=ffffff" width="41%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manvendra-2006&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manvendra-2006&theme=radical&hide_border=true&background=0D1117&stroke=7C3AED&ring=FF4FA3&fire=FF6B35&currStreakLabel=FF4FA3" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvendra-2006&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvendra-2006&bg_color=0D1117&color=FF4FA3&line=FF4FA3&point=FFCA28&area=true&hide_border=true" width="100%"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Manvendra-2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manvendra-2006&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -423,6 +429,6 @@ mindmap
 
 **⭐ Star my repos if you find them helpful — let's grow together! 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A66C2,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4FA3,50:7C3AED,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
