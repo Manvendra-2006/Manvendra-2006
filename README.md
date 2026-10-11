@@ -101,13 +101,7 @@ Real-time chat on a **microservice architecture** — 1 API gateway + 4 services
 
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Manvendra-2006/ChatApp)
 
-</td>
-<td width="50%" valign="top">
 
-### 📊 Customer 360 & Next Best Action Engine
-AI-assisted **insurance operations** platform with transcript insights & rule-based NBA.
-
-`Streamlit` `Snowflake` `Cortex` `Pandas`
 
 ⚙️ Customer & employee roles · Analytics · System health
 
