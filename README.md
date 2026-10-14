@@ -104,19 +104,7 @@ Real-time chat on a **microservice architecture** — 1 API gateway + 4 services
 </td>
 <td width="50%" valign="top">
 
-### 📊 Customer 360 & Next Best Action Engine
-Insurance ops platform with **AI transcript insights** and rule-based recommendations.
 
-`Streamlit` `Snowflake` `Cortex` `Pandas`
-
-⚙️ Customer & employee roles · Analytics · System health
-
-[![Live](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://customer360-efeqf8swyxv379afmknpoy.streamlit.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🌱 Ugaao
 **Gamified environmental education** platform for schools & colleges.
